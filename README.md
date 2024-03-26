@@ -1,0 +1,1 @@
+This repository contains a simple chat application built using Android Studio with Kotlin. The app utilizes Socket.IO for real-time communication and Node.js for the server. It follows the MVVM architecture pattern and employs coroutines for asynchronous tasks.
